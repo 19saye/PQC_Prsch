@@ -1,3 +1,6 @@
 [submodule "PrscHQC"]
 	path = PrscHQC
 	url = https://github.com/19saye/Prsch_HQC_project.git
+[submodule "BadPK"]
+	path = BadPK
+	url = https://github.com/19saye/HQC_BadPK_Test.git
